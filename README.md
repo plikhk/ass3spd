@@ -6,7 +6,6 @@
 * **Group:** SE-2524 (Astana IT University)[cite: 1]
 * **Course:** ShP-2216 Software Design Patterns (2026-2027)[cite: 1]
 * **Topic:** Option A — Drawing (`Shape` / `Renderer`)[cite: 1]
-* **Base Commit Hash:** `[вставь_сюда_хеш_своего_базового_коммита]`
 
 ---
 
